@@ -18,6 +18,8 @@ https://github.com/ADIRTTA/Web_maping.git
 
 cd Web_maping
 
+chmod +x *
+
 python3 Start_Tool.py
 
 @ a nmap tool🖤
